@@ -7,13 +7,13 @@
  
 <!-- My Skills -->
 ## 📦 Technologies
-**Frontend**: `React` `Svelte` `Vue` `TypeScript` `JavaScript` `HTML` `CSS` `Sass` `Scss` `Tailwind`
+**Frontend**: `React` `JavaScript` `HTML` `CSS` `Sass` `Scss` `Tailwind` `Ant Design`
  
-**Backend**: `Express` `NodeJS` `NestJS` `MongoDB` `ElasticSearch` `Postgres` `Postman`
+**Backend**: `Express` `NodeJS` `NestJS` `MongoDB` `Postgres` `Postman`
  
-**Version Control**: `Git` `GitLab` `GitHub` `BitBucket`
+**Version Control**: `Git` `GitHub` `BitBucket`
  
-**Others**: `Figma` `Notion` `Bash` `Linux` `Netlify` `Cypress`
+**Others**: `Figma`
  
  
 ## 📬 Contact 
